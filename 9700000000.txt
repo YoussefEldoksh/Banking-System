@@ -1,0 +1,6 @@
+1-1-2024 | 10:45 | Withdrawal from account | $50.00
+1-1-2024 | 10:55 | Deposit to account | $50.00
+1-1-2024 | 11:32 | Deposit to account | $5000.00
+1-1-2024 | 11:32 | Deposit to account | $5000.00
+1-1-2024 | 11:33 | Transfered to a friend | $5000.00
+1-1-2024 | 11:34 | Withdrawal from account | $5000.00
